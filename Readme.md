@@ -13,7 +13,7 @@ I am a seasoned backend developer with a passion for crafting scalable and effic
 [![](https://visitcount.itsvg.in/api?id=mohit-cse&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # ⚡️ LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/mohit-cse)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mohit-cse)](https://leetcode.com/u/mohit-cse)
 
 
 <h1> 🚀 &nbsp;Some Tools I Have Used and Learnt</h1>
